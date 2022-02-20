@@ -17,7 +17,7 @@
       </div>
       <div>
         <span class="sort-articles">
-          Search Articles For:
+          Articles:
           <input
             v-model="searchQuery"
             type="search"
