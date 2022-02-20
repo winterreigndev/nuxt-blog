@@ -3,7 +3,7 @@
     <div class="sort-count">
       <div>
         <span class="showing-articles"
-          >Displaying Articles:
+          >Articles:
           <span class="no-focus">
             <input
               v-model="searchQuery"
@@ -17,7 +17,7 @@
       </div>
       <div>
         <span class="sort-articles">
-          Articles:
+          Search Articles For:
           <input
             v-model="searchQuery"
             type="search"
