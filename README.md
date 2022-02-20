@@ -1,5 +1,7 @@
 # nuxt-blog
 
+<a href="https://nuxtblog.winterreign.dev/">View Live Demo</a>
+
 ## Build Setup
 
 ```bash
